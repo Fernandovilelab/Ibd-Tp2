@@ -1,0 +1,219 @@
+Id,NOME,IdRegional,Área,IdEstabelecimentosFavela,IdDomicilios,IdPopulacao
+26,Acaba Mundo,2,34057,1,1,1
+9,Alta Tensão,1,13083,2,2,2
+180,Alta Tensão I,1,69079,3,3,3
+44,Alto Vera Cruz,3,819946,4,4,4
+501,Ambrosina,4,23828,5,5,5
+534,Ana Lúcia,5,14224,,6,6
+423,Andiroba,5,23395,7,7,7
+96,Antena Montanhês,8,20557,8,8,8
+124,Antonio Ribeiro de Abreu,5,29994,9,9,9
+165,Apolônia,9,199511,10,10,10
+127,Bacuraus,7,3201,11,11,11
+514,Barão Homem de Melo I,4,3686,12,12,12
+515,Barão Homem de Melo III,4,5772,13,13,13
+135,Barão Homem de Melo IV,4,44481,14,14,14
+507,Beira-Linha,5,197332,15,15,15
+45,Belém,3,1005,16,16,16
+20,Bernadete,1,71858,17,17,17
+504,Biquinhas,7,57492,18,18,18
+233,Bispo de Maura,8,9446,19,19,19
+506,Boa Esperança,5,15455,20,20,20
+419,Boa União I,7,6461,21,21,21
+420,Boa União II,7,14506,22,22,22
+78,Brasília,5,38007,23,23,23
+137,Cabana do Pai Tomás,4,488514,24,24,24
+49,Caetano Furquim,3,20204,25,25,25
+503,Camponesa III,3,8097,26,26,26
+442,Canto do Sabiá,9,9313,27,27,27
+7,Castanheira,1,214769,28,28,28
+537,Castelo de Manacás,8,64597,,29,29
+138,Chácara Leonina,4,38634,30,30,30
+51,Cônego Pinheiro,3,15354,31,31,31
+52,Cônego Pinheiro A,3,8069,32,32,32
+153,Confisco,8,268926,33,33,33
+2,Conjunto Bonsucesso,1,36905,34,34,34
+64,Conjunto Capitão Eduardo,5,136104,35,35,35
+116,Conjunto Floramar,7,21894,36,36,36
+536,Conjunto H2-Prosam,4,28485,,37,37
+535,Conjunto H5-Prosam,4,49880,,38,38
+92,Conjunto Jardim Filadélfia,6,101940,39,39,39
+8,Conjunto Jatobá,1,132463,40,40,40
+164,Conjunto Minascaixa,9,200047,41,41,41
+252,Conjunto Novo Dom Bosco,6,21759,42,42,42
+66,Conjunto Paulo VI,5,210455,43,43,43
+119,Conjunto Providência,7,11896,44,44,44
+24,Conjunto Santa Maria,2,69424,45,45,45
+154,Conjunto São Francisco de Assis,8,12133,46,46,46
+225,Conjunto Serra Verde,9,11626,47,47,47
+43,Conjunto Taquaril,3,1084412,48,48,48
+98,Coqueiral,6,60507,49,49,49
+243,Corumbiara,1,51492,50,50,50
+519,Cristo Rei,4,8668,51,51,51
+199,Custodinha,4,7119,52,52,52
+99,Delta,6,30106,53,53,53
+3,Esperança,1,101282,54,54,54
+39,Estrela,2,63626,55,55,55
+41,Fazendinha,2,205031,56,56,56
+167,Flamengo,9,8416,57,57,57
+54,Grota,3,6469,58,58,58
+197,Grotinha,5,22649,59,59,59
+74,Guanabara,5,1219,60,60,60
+139,Guaratã,4,41768,61,61,61
+532,Helena Greco,9,19755,,62,62
+140,Imbaúbas,4,41081,63,63,63
+418,Jardim do Vale,1,43748,64,64,64
+117,Jardim Felicidade,7,802270,65,65,65
+55,João Alfredo,3,17484,66,66,66
+141,Leonina,4,147778,67,67,67
+101,Lorena,6,3015,68,68,68
+25,Mala e Cuia,2,2379,69,69,69
+109,Maravilha,4,1674,70,70,70
+40,Marçola,2,236001,71,71,71
+42,Mariano de Abreu,3,163072,72,72,72
+15,Marieta I,1,29208,73,73,73
+212,Marieta II,1,5681,74,74,74
+118,Mariquinhas,7,141566,75,75,75
+103,Marmiteiros,6,24024,76,76,76
+411,Minas Solidária - Granja IV,3,11536,,77,77
+443,Mirante,7,11459,78,78,78
+437,Mirtes,5,12295,79,79,79
+29,Monte São José,2,33969,80,80,80
+438,Morro dos Macacos,5,10405,81,81,81
+30,Nossa Senhora da Aparecida,2,144587,82,82,82
+31,Nossa Senhora da Conceição,2,200041,83,83,83
+32,Nossa Senhora de Fátima,2,607547,84,84,84
+172,Nova América,9,7284,85,85,85
+120,Novo Aarão Reis,7,445211,86,86,86
+533,Novo Lajedo,7,395316,,87,87
+156,Novo Ouro Preto,8,30896,88,88,88
+218,Pantanal,4,34782,89,89,89
+220,Pedreira Prado Lopes,6,140441,90,90,90
+34,Pindura Saia,2,3379,91,91,91
+530,Pomar do Cafezal,2,42230,,92,92
+445,Real I,8,2150,93,93,93
+509,Real II,8,11297,94,94,94
+35,Santa Isabel,2,3462,95,95,95
+5,Santa Rita,1,114034,96,96,96
+37,Santa Rita de Cássia,2,151679,97,97,97
+144,Santa Sofia,4,121238,98,98,98
+38,Santana do Cafezal,2,174499,99,99,99
+110,Santo Antônio Barroquinha,8,28118,100,100,100
+421,São Dimas,5,7550,101,101,101
+111,São Francisco das Chagas,6,26734,102,102,102
+433,São João,1,59507,103,103,103
+145,São Jorge I,4,75617,104,104,104
+146,São Jorge II,4,144834,105,105,105
+147,São Jorge III,4,221411,106,106,106
+60,São Rafael,3,25946,107,107,107
+85,São Sebastião,5,11702,108,108,108
+61,São Vicente,3,15168,109,109,109
+113,Senhor dos Passos,6,117295,110,110,110
+114,Sport Club,4,57461,111,111,111
+531,Teodomiro Cruz,2,13337,,112,112
+83,Três Marias,5,32594,113,113,113
+93,Trinta e Um de Março,6,33945,114,114,114
+178,Universo,9,54139,115,115,115
+168,Várzea da Palma,9,4203,116,116,116
+150,Ventosa,4,213113,117,117,117
+251,Vila Aeroporto,8,71658,118,118,118
+155,Vila Aeroporto Jaraguá,8,9268,119,119,119
+524,Vila Alto dos Pinheiros,6,5776,120,120,120
+134,Vila Antena,4,64855,121,121,121
+11,Vila Átila de Paiva,1,35031,122,122,122
+27,Vila Bandeirantes,2,15019,123,123,123
+428,Vila Batik,1,5788,124,124,124
+47,Vila Boa Vista,3,26546,125,125,125
+439,Vila Calafate,4,17129,126,126,126
+97,Vila Califórnia,6,104267,127,127,127
+12,Vila Cemig,1,258148,128,128,128
+166,Vila Copacabana,9,18269,129,129,129
+13,Vila Copasa,1,6455,130,130,130
+516,Vila da Amizade,4,10808,131,131,131
+63,Vila da Área,3,14919,132,132,132
+510,Vila da Luz,5,49911,133,133,133
+230,Vila da Paz,5,13438,134,134,134
+521,Vila da Paz Anel Rodoviário,5,3417,135,135,135
+87,Vila de Sá,5,19089,136,136,136
+48,Vila Dias,3,25826,137,137,137
+88,Vila do Pombal,5,2957,138,138,138
+175,Vila dos Anjos,9,28015,139,139,139
+431,Vila Ecológica,1,197267,140,140,140
+441,Vila Engenho Nogueira,8,15192,141,141,141
+73,Vila Esplanada,5,30709,142,142,142
+22,Vila Formosa,1,31339,143,143,143
+28,Vila Fumec,2,2234,144,144,144
+424,Vila Havaí,4,9516,145,145,145
+435,Vila Horto Florestal,3,4416,146,146,146
+14,Vila Independência I,1,115424,147,147,147
+200,Vila Independência II,1,42834,148,148,148
+201,Vila Independência IV,1,28808,149,149,149
+523,Vila Independência V,1,13880,150,150,150
+75,Vila Inestan,5,14124,151,151,151
+89,Vila Ipiranga,5,3038,152,152,152
+94,Vila Jardim Alvorada,8,228714,153,153,153
+169,Vila Jardim Leblon,9,12940,154,154,154
+100,Vila Jardim Montanhês,8,20375,155,155,155
+204,Vila Madre Gertrudes I,4,56837,156,156,156
+205,Vila Madre Gertrudes II,4,8673,157,157,157
+511,Vila Madre Gertrudes III,4,15464,158,158,158
+517,Vila Madre Gertrudes IV,4,1437,159,159,159
+518,Vila Madre Gertrudes V,4,10245,160,160,160
+95,Vila Maloca,6,15910,161,161,161
+10,Vila Mangueiras,1,80477,162,162,162
+170,Vila Mantiqueira,9,25226,163,163,163
+90,Vila Maria,5,125582,164,164,164
+128,Vila Minaslândia,7,29711,165,165,165
+171,Vila Nossa Senhora Aparecida,9,65117,166,166,166
+56,Vila Nossa Senhora do Rosário,3,22536,167,167,167
+444,Vila Nova,5,13836,168,168,168
+104,Vila Nova Cachoeirinha I,6,56998,169,169,169
+188,Vila Nova Cachoeirinha II,6,5394,170,170,170
+77,Vila Nova Cachoeirinha IV,5,12134,171,171,171
+525,Vila Nova Cintra,4,5481,172,172,172
+23,Vila Nova dos Milionários,1,10329,173,173,173
+142,Vila Nova Gameleira I,4,19810,174,174,174
+187,Vila Nova Gameleira II,4,48459,175,175,175
+143,Vila Nova Gameleira III,4,4903,176,176,176
+151,Vila Nova Paraíso,3,20831,177,177,177
+33,Vila Novo São Lucas,2,134136,178,178,178
+105,Vila Oeste,6,33263,179,179,179
+505,Vila Ouro Minas,5,29674,180,180,180
+157,Vila Paquetá,8,9573,181,181,181
+16,Vila Paraíso,3,17647,182,182,182
+429,Vila Petrópolis,1,10157,183,183,183
+6,Vila Pinho,1,350773,184,184,184
+17,Vila Piratininga,1,49548,185,185,185
+219,Vila Piratininga A,9,7191,186,186,186
+130,Vila Primeiro de Maio,7,135677,187,187,187
+108,Vila Puc,6,2489,188,188,188
+526,Vila Rica São José,8,2410,189,189,189
+36,Vila Santa Lúcia,2,231296,190,190,190
+173,Vila Santa Mônica,9,53579,191,191,191
+158,Vila Santa Rosa,8,28282,192,192,192
+159,Vila Santo Antônio,8,2926,193,193,193
+513,Vila São Bento,2,32995,194,194,194
+160,Vila São Francisco,8,2195,195,195,195
+508,Vila São Gabriel,5,17071,196,196,196
+59,Vila São Geraldo,3,3123,197,197,197
+174,Vila São João Batista,9,81132,198,198,198
+112,Vila São José,8,1109,199,199,199
+81,Vila São Paulo,5,65307,200,200,200
+132,Vila São Tomaz,7,188518,201,201,201
+222,Vila Satélite,9,9052,202,202,202
+426,Vila Sesc I,9,9825,203,203,203
+427,Vila Sesc II,9,1001,204,204,204
+115,Vila Sumaré,6,66139,205,205,205
+161,Vila Suzana I,8,32733,206,206,206
+227,Vila Suzana II,8,3175,207,207,207
+82,Vila Tiradentes,5,39814,208,208,208
+19,Vila Tirol,1,5848,209,209,209
+440,Vila Trevo,8,13380,210,210,210
+62,Vila União,3,11421,211,211,211
+181,Vila Vera Cruz I,3,6925,212,212,212
+520,Vila Vera Cruz II,3,1115,213,213,213
+528,Vila Verde,9,7196,214,214,214
+152,Vila Vista Alegre,4,326788,215,215,215
+527,Vila Viveiro,9,27163,216,216,216
+430,Vitória da Conquista,1,91664,217,217,217
+121,Zilah Spósito,7,107574,218,218,218
